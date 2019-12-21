@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe0ecb39-1b68-4f38-b554-424240ab1258" name="Default Changelist" comment="" />
+    <list default="true" id="fe0ecb39-1b68-4f38-b554-424240ab1258" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1V1oPD7hHoS2AZBwUqQJ2lS2HuO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager" selected="Python.lesson_2-2.4step_8">
@@ -172,7 +181,7 @@
       <workItem from="1576490920703" duration="289000" />
       <workItem from="1576491319832" duration="605000" />
       <workItem from="1576913097358" duration="358000" />
-      <workItem from="1576917344789" duration="6258000" />
+      <workItem from="1576917344789" duration="6772000" />
     </task>
     <servers />
   </component>
@@ -180,6 +189,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="246" y="0" width="864" height="768" key="CommitChangelistDialog2" timestamp="1576924132028">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="246" y="0" width="864" height="768" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1576924132028" />
     <state x="100" y="100" width="1166" height="568" key="DiffContextDialog" timestamp="1576922282944">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -200,6 +213,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1320" height="221" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1576923557290" />
+    <state x="278" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1576924136038">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="278" y="116" width="800" height="543" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1576924136038" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576918501498">
       <screen x="0" y="0" width="1366" height="768" />
     </state>

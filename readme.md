@@ -1,0 +1,1 @@
+Auto test course git repr
