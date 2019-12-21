@@ -12,6 +12,7 @@ with webdriver.Chrome() as driver:
     elem_2.send_keys("DIZZZYDUSTIN")
     elem_3.send_keys("DIZZZYDUSTIN")
     button.click()
+    time.sleep(10)
     driver.get(link_2)
     elem_1 = driver.find_element_by_css_selector('.form-control.first')
     elem_2 = driver.find_element_by_css_selector('.form-control.second[placeholder="Input your last name"]')
