@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe0ecb39-1b68-4f38-b554-424240ab1258" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fe0ecb39-1b68-4f38-b554-424240ab1258" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,12 +177,16 @@
       <workItem from="1576490920703" duration="289000" />
       <workItem from="1576491319832" duration="605000" />
       <workItem from="1576913097358" duration="358000" />
-      <workItem from="1576917344789" duration="6772000" />
+      <workItem from="1576917344789" duration="7056000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init push" />
+    <option name="LAST_COMMIT_MESSAGE" value="init push" />
   </component>
   <component name="WindowStateProjectService">
     <state x="246" y="0" width="864" height="768" key="CommitChangelistDialog2" timestamp="1576924132028">
